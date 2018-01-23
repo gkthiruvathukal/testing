@@ -10,3 +10,11 @@ A New Section
 
 This is just a test project, so I don't have much to say. But one day,
 my documentation might be good.
+
+Some Key Links
+================
+
+Here are the things we are using in class.
+
+- [GitHub](http://github.com)
+- [Cloud 9](http://c9.io)
